@@ -2,11 +2,13 @@
   <img src="https://idee8.agency/logo.png" alt="Idee8 Logo" width="200" />
 </div>
 
-# Idee8
+<div align="center">
+  <h1>Idee8</h1>
+</div>
 
 🚀 **Dedicated Dev + Design Team for Founders and Startups**
 
-At Idee8, we bring your ideas to life with seamless development and design solutions tailored for founders and startups. Whether you're building your MVP, scaling your product, or need design expertise, we've got you covered.
+At Idee8, we bring your ideas to life with seamless development and design solutions tailored for founders and startups. Whether you're building your MVP, scaling your product, or need design expertise, we're here to help.
 
 ---
 
@@ -22,15 +24,6 @@ At Idee8, we bring your ideas to life with seamless development and design solut
 - **Email**: [hi@idee8.agency](mailto:hi@idee8.agency)
 - **LinkedIn**: [linkedin.com/idee8](https://linkedin.com/idee8)
 - **X (formerly Twitter)**: [x.com/idee8agency](https://x.com/idee8agency)
-
----
-
-### 🛠️ Technologies We Love
-- **Backend**: Node.js, NestJS, Python, Go
-- **Frontend**: React, Vue.js, Angular
-- **Mobile**: Flutter, React Native
-- **Design**: Figma, Adobe XD
-- **Cloud**: AWS, Azure, Google Cloud
 
 ---
 
