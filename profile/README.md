@@ -8,7 +8,9 @@
 
 🚀 **Dedicated Dev + Design Team for Founders and Startups**
 
-At Idee8, we bring your ideas to life with seamless development and design solutions tailored for founders and startups. Whether you're building your MVP, scaling your product, or need design expertise, we're here to help.
+At Idee8, we bring your ideas to life with seamless development and design solutions tailored for founders and startups. Whether you're building your MVP, scaling your product, or need design expertise, we've got you covered.
+
+We are not just an agency; we are also passionate contributors to the open-source community, building tools and libraries to empower developers worldwide.
 
 ---
 
@@ -16,6 +18,7 @@ At Idee8, we bring your ideas to life with seamless development and design solut
 - **Custom Software Development**: From idea to launch, we build robust, scalable, and user-friendly solutions.
 - **UI/UX Design**: Creating intuitive and delightful designs to elevate your product.
 - **Startup Partnerships**: Helping founders bring their visions to reality with a focus on efficiency and innovation.
+- **Open Source Development**: Creating and maintaining open-source projects to support the global developer community.
 
 ---
 
