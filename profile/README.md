@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://idee8.agency/logo.png" alt="Idee8 Logo" width="200" />
+  <img src="https://avatars.githubusercontent.com/u/196439373?s=200&v=4" alt="Idee8 Logo" width="200" />
 </div>
 
 <div align="center">
