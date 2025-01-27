@@ -6,7 +6,7 @@
   <h1>Idee8</h1>
 </div>
 
-🚀 **Dedicated Dev + Design Team for Founders and Startups**
+**Dedicated Remote Team for Founders and Startups**
 
 At Idee8, we bring your ideas to life with seamless development and design solutions tailored for founders and startups. Whether you're building your MVP, scaling your product, or need design expertise, we've got you covered.
 
