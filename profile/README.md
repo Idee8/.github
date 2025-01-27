@@ -19,13 +19,6 @@ At Idee8, we bring your ideas to life with seamless development and design solut
 
 ---
 
-### 🌐 Connect With Us
-- **Website**: [idee8.agency](https://idee8.agency)
-- **Email**: [hi@idee8.agency](mailto:hi@idee8.agency)
-- **LinkedIn**: [linkedin.com/idee8](https://linkedin.com/idee8)
-- **X (formerly Twitter)**: [x.com/idee8agency](https://x.com/idee8agency)
-
----
 
 ### 🌟 Why Choose Idee8?
 - A dedicated team passionate about building products that succeed.
