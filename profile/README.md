@@ -12,20 +12,4 @@ We are not just an agency; we are also passionate contributors to the open-sourc
 
 ---
 
-### 🌟 What We Do
-- **Custom Software Development**: From idea to launch, we build robust, scalable, and user-friendly solutions.
-- **UI/UX Design**: Creating intuitive and delightful designs to elevate your product.
-- **Startup Partnerships**: Helping founders bring their visions to reality with a focus on efficiency and innovation.
-- **Open Source Development**: Creating and maintaining open-source projects to support the global developer community.
-
----
-
-
-### 🌟 Why Choose Idee8?
-- A dedicated team passionate about building products that succeed.
-- Expertise in both development and design, ensuring end-to-end quality.
-- A proven track record of empowering startups to scale and thrive.
-
----
-
 ✨ Let's build something amazing together. Reach out today!
