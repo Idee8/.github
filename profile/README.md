@@ -1,8 +1,4 @@
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/196439373?s=200&v=4" alt="Idee8 Logo" width="100" height="100" />
-</div>
-
-<div align="center">
+<div>
   <h1>Idee8</h1>
 </div>
 
